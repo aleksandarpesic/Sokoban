@@ -1,0 +1,13 @@
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\bin\Debug\Sokoban.exe
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\bin\Debug\Sokoban.pdb
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.Cache
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.Form1.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\bin\Debug\mysql.data.dll
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\New folder\Sokoban\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\New folder\Sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\New folder\Sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
+D:\Dokumenti aca\Projekti\PMF\I-master\RG\Sokoban\Sokoban\Sokoban\obj\Debug\Sokoban.csprojResolveAssemblyReference.cache
