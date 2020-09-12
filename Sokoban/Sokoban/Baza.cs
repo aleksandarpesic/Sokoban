@@ -17,7 +17,7 @@ namespace Sokoban
         public bool conected;
         public Baza()
         {
-            connection = "Server=den1.mysql1.gear.host;Database=rezultati;User ID=rezultati;Password=Yd2nR95s!-EK;";
+            connection = "Server=den1.mysql1.gear.host;Database=rezultati;User ID=rezultati;Password=askme;"; //potreban je Password za pristup bazi 
             //deo za povezivanje na localhost u promenljivu connectionString
             string server = "localhost";
             string database = "rezultati";
