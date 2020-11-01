@@ -1,2 +1,2 @@
 # Sokoban
-Projekat iz Racunarske grafike
+Computer Graphics - Project (C# GUI and using MySqlConnection)
